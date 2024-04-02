@@ -1,0 +1,3 @@
+Python 3.9.18
+tkinter.TkVersion 8.6
+tkinter.TclVersion 8.6
